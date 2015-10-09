@@ -1,0 +1,7 @@
+[
+	{
+		"name" : "increment_version",
+		"args" : ["C"]
+	},
+	"add_git_tag"
+]

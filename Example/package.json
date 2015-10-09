@@ -1,0 +1,35 @@
+{
+  "name": "tunnelpipe",
+  "version": "0.0.4",
+  "description": "CI & CD with a topping of Node",
+  "main": "./lib/nodemon",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tunnelpipe": "./bin/tunnelpipe.js"
+  },
+  "engines": {
+    "node": ">=4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzns/tunnelpipe.git"
+  },
+  "keywords": [
+    "continous",
+    "delivery",
+    "deliver",
+    "integration"
+  ],
+  "preferGlobal": "true",
+  "author": {
+    "name": "Nikhil Nigade - Dezine Zync Studios",
+    "url": "https://github.com/dezinezync"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzns/tunnelpipe/issues"
+  },
+  "homepage": "https://github.com/dzns/tunnelpipe#readme"
+}
