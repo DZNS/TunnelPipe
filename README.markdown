@@ -20,7 +20,7 @@ Given the project’s status, the documentation is sparse, or almost non-existen
 - [ ] Hole: Add git-tag
 - [ ] Hole: Ensure git branch
 - [ ] Hole: Ensure clean staging area
-- [ ] Hole: Trigger `test` using the `nom` command
+- [ ] Hole: Trigger `test` using the `npm` command
 
 ### Front-End CI ToDo
 - [ ] Compile *SS to CSS
