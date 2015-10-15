@@ -15,7 +15,7 @@ TunnelPipe is currently not even worthy of the `alpha` tag. It has just been sta
 Given the project’s status, the documentation is sparse, or almost non-existent. 
 
 ### ToDo
-- [ ] Shell scripting module from within Holes
+- [x] Shell scripting module from within Holes
 - [ ] Improve pipe structure (determine possibility, unless JSON feels right)
 - [ ] Hole: Add git-tag
 - [ ] Hole: Ensure git branch
@@ -25,10 +25,10 @@ Given the project’s status, the documentation is sparse, or almost non-existen
 ### Front-End CI ToDo
 - [ ] Compile *SS to CSS
 - [ ] Minify CSS
-- [ ] gzip CSS
+- [x] gzip CSS
 - [ ] Compile *script to Javascript
 - [ ] Uglify javascript
-- [ ] gzip javascript
+- [x] gzip javascript
 - [ ] Optimize Image Assets : JPEG, PNG, BMP? (Only if possible using the aforementioned Shell module)
 - [ ] S3 sync of assets by correctly setting Mime-Types, Cache-Control, Content-Encoding (if applicable)
 
