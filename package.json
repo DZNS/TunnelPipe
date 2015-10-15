@@ -4,7 +4,7 @@
   "description": "CI & CD with a topping of Node",
   "main": "./lib/nodemon",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "tunnelpipe": "./bin/tunnelpipe.js"
