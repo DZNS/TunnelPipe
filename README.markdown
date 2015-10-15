@@ -20,7 +20,14 @@ Given the project’s status, the documentation is sparse, or almost non-existen
 - [x] Hole: Add git-tag
 - [x] Hole: Ensure git branch
 - [x] Hole: Ensure clean staging area
-- [ ] Hole: Trigger `test` using the `npm` command
+- [x] Hole: Trigger `test` using the `npm` command
+- [ ] Git pull
+- [ ] Git commit
+- [ ] Git push remote (remote name, current branch, alternate branch)
+- [ ] Git push tags
+- [ ] Git commit version update
+- [ ] Slack
+- [ ] Reset git repo
 
 ### Front-End CI ToDo
 - [ ] Compile *SS to CSS
