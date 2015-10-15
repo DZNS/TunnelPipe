@@ -3,13 +3,18 @@
         "name" : "ensure_git_branch",
         "args" : ["feature-holes"]
     },
+
+    "ensure_git_status_clean",
+
     {
         "name" : "increment_version",
         "args" : ["C"]
     },
+
     {
         "name" : "gz",
         "args" : ["test.css", 9]
     },
+    
     "add_git_tag"
 ]
