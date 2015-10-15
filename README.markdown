@@ -17,9 +17,9 @@ Given the project’s status, the documentation is sparse, or almost non-existen
 ### ToDo
 - [x] Shell scripting module from within Holes
 - [ ] Improve pipe structure (determine possibility, unless JSON feels right)
-- [ ] Hole: Add git-tag
+- [x] Hole: Add git-tag
 - [x] Hole: Ensure git branch
-- [ ] Hole: Ensure clean staging area
+- [x] Hole: Ensure clean staging area
 - [ ] Hole: Trigger `test` using the `npm` command
 
 ### Front-End CI ToDo

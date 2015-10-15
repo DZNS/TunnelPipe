@@ -15,6 +15,9 @@
         "name" : "gz",
         "args" : ["test.css", 9]
     },
-    
-    "add_git_tag"
+
+    {
+        "name" : "add_tag",
+        "args" : ["20"]
+    }
 ]
