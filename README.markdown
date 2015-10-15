@@ -18,7 +18,7 @@ Given the project’s status, the documentation is sparse, or almost non-existen
 - [x] Shell scripting module from within Holes
 - [ ] Improve pipe structure (determine possibility, unless JSON feels right)
 - [ ] Hole: Add git-tag
-- [ ] Hole: Ensure git branch
+- [x] Hole: Ensure git branch
 - [ ] Hole: Ensure clean staging area
 - [ ] Hole: Trigger `test` using the `npm` command
 

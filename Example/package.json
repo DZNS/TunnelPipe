@@ -1,6 +1,6 @@
 {
   "name": "tunnelpipe",
-  "version": "0.0.54",
+  "version": "0.0.58",
   "description": "CI & CD with a topping of Node",
   "main": "./lib/nodemon",
   "scripts": {

@@ -1,5 +1,9 @@
 [
     {
+        "name" : "ensure_git_branch",
+        "args" : ["feature-holes"]
+    },
+    {
         "name" : "increment_version",
         "args" : ["C"]
     },
