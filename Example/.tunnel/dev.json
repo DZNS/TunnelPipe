@@ -1,7 +1,11 @@
 [
-	{
-		"name" : "increment_version",
-		"args" : ["C"]
-	},
-	"add_git_tag"
+    {
+        "name" : "increment_version",
+        "args" : ["C"]
+    },
+    {
+        "name" : "gz",
+        "args" : ["test.css", 9]
+    },
+    "add_git_tag"
 ]
