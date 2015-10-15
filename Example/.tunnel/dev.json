@@ -5,6 +5,8 @@
     },
 
     "ensure_git_status_clean",
+    
+    "test",
 
     {
         "name" : "increment_version",
