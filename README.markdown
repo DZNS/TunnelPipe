@@ -31,6 +31,7 @@ Given the project’s status, the documentation is sparse, or almost non-existen
 
 ### Front-End CI ToDo
 - [ ] Compile *SS to CSS
+- [ ] Autoprefixer
 - [ ] Minify CSS
 - [x] gzip CSS
 - [ ] Compile *script to Javascript

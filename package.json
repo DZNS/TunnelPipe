@@ -35,5 +35,8 @@
   "dependencies": {
     "colors": "^1.1.2",
     "commander": "^2.8.1"
+  },
+  "scripts": {
+    "preinstall" : "npm i -g autoprefixer; npm i -g less; npm i -g postcss-cli; npm i -g uglify-js"
   }
 }
